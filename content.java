@@ -1,13 +1,30 @@
-public class Cuxdfl {
+public class Cddtgr {
     public static void main() {
-        System.out.println("fufrt");
-        System.out.println("tywvv");
-        System.out.println("wlyhb");
-        System.out.println("yhdit");
-        System.out.println("agqbb");
-        System.out.println("vgjay");
-        System.out.println("gfghp");
-        System.out.println("pimqj");
-        System.out.println("sislk");
+        System.out.println("nmido");
+        System.out.println("kfnou");
+        System.out.println("kqxnf");
+        System.out.println("rxcfe");
+        System.out.println("rtgmk");
+        System.out.println("wahfc");
+        System.out.println("obxma");
+        System.out.println("poucy");
+        System.out.println("hjsou");
+        System.out.println("cuycq");
+        System.out.println("onuie");
+        System.out.println("smhqe");
+        System.out.println("mibbq");
+        System.out.println("glrdf");
+        System.out.println("wbhsh");
+        System.out.println("pxtan");
+        System.out.println("bflav");
+        System.out.println("jexyk");
+        System.out.println("esoip");
+        System.out.println("gvafe");
+        System.out.println("jagxc");
+        System.out.println("bbwbn");
+        System.out.println("rotsj");
+        System.out.println("rlaxh");
+        System.out.println("ddcsv");
+        System.out.println("fuusl");
     }
 }
