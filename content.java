@@ -1,56 +1,6 @@
-public class Cnotri {
+public class Ctmmyf {
     public static void main() {
-        System.out.println("ajumm");
-        System.out.println("xbalo");
-        System.out.println("ikhci");
-        System.out.println("ekjqa");
-        System.out.println("imxjt");
-        System.out.println("yicmf");
-        System.out.println("manjs");
-        System.out.println("ligqs");
-        System.out.println("vpisa");
-        System.out.println("dhpwg");
-        System.out.println("rngbc");
-        System.out.println("eonli");
-        System.out.println("hlxqu");
-        System.out.println("satnr");
-        System.out.println("gemsm");
-        System.out.println("rpcku");
-        System.out.println("daohg");
-        System.out.println("tchav");
-        System.out.println("ohxlq");
-        System.out.println("stnil");
-        System.out.println("eiluw");
-        System.out.println("tivid");
-        System.out.println("hrtgw");
-        System.out.println("ltabv");
-        System.out.println("caseb");
-        System.out.println("sdimn");
-        System.out.println("yeuxm");
-        System.out.println("nynlo");
-        System.out.println("fypht");
-        System.out.println("dncrm");
-        System.out.println("pxwft");
-        System.out.println("ghrty");
-        System.out.println("dxtqn");
-        System.out.println("fgiif");
-        System.out.println("pbfcv");
-        System.out.println("knqsu");
-        System.out.println("cuyst");
-        System.out.println("ntgwi");
-        System.out.println("ycdde");
-        System.out.println("xppxn");
-        System.out.println("uygqj");
-        System.out.println("nkrmc");
-        System.out.println("rynpb");
-        System.out.println("xnuof");
-        System.out.println("hollp");
-        System.out.println("dsqms");
-        System.out.println("aiebi");
-        System.out.println("chivm");
-        System.out.println("tiyic");
-        System.out.println("dcxir");
-        System.out.println("macvh");
-        System.out.println("snefg");
+        System.out.println("rnvim");
+        System.out.println("sgwuh");
     }
 }
