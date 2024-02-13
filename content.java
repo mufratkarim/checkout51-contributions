@@ -1,7 +1,9 @@
-public class Ctmmyf {
+public class Cgkale {
     public static void main() {
-        System.out.println("rnvim");
-        System.out.println("sgwuh");
-        System.out.println("fwsyr");
+        System.out.println("jidqb");
+        System.out.println("cgirx");
+        System.out.println("egris");
+        System.out.println("jljgw");
+        System.out.println("dpssk");
     }
 }
