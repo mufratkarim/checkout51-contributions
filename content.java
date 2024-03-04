@@ -14,15 +14,10 @@ public class Cgkale {
         System.out.println("rylkb");
         System.out.println("ecgax");
         System.out.println("mnrpo");
-        System.out.println("dopto");
-        System.out.println("ticga");
-        System.out.println("uxelo");
-        System.out.println("qllja");
-        System.out.println("qyoqx");
-        System.out.println("wbggf");
-        System.out.println("jhbgf");
-        System.out.println("jgbxa");
-        System.out.println("ayuto");
-        System.out.println("iggjt");
+        System.out.println("yuluv");
+        System.out.println("hfvuf");
+        System.out.println("wrsge");
+        System.out.println("nyvea");
+        System.out.println("jhpwq");
     }
 }
