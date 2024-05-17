@@ -6,10 +6,5 @@ public class Ctkvfh {
         System.out.println("qsrby");
         System.out.println("apwxq");
         System.out.println("hjqdo");
-        System.out.println("bycbk");
-        System.out.println("pxmxd");
-        System.out.println("olmgf");
-        System.out.println("pwsye");
-        System.out.println("nypuu");
     }
 }
