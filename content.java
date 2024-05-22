@@ -1,10 +1,8 @@
-public class Ctkvfh {
+public class Cdeqvp {
     public static void main() {
-        System.out.println("rkxby");
-        System.out.println("jxmlx");
-        System.out.println("pvdfc");
-        System.out.println("qsrby");
-        System.out.println("apwxq");
-        System.out.println("hjqdo");
+        System.out.println("mldgr");
+        System.out.println("nqost");
+        System.out.println("icwea");
+        System.out.println("inycv");
     }
 }
