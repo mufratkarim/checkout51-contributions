@@ -6,9 +6,8 @@ public class Cdeqvp {
         System.out.println("inycv");
         System.out.println("sqnyw");
         System.out.println("dflol");
-        System.out.println("hphsy");
-        System.out.println("chepb");
-        System.out.println("hlyhi");
-        System.out.println("qoqsd");
+        System.out.println("hdsfa");
+        System.out.println("unwqb");
+        System.out.println("hhedn");
     }
 }
