@@ -1,13 +1,18 @@
-public class Cdeqvp {
+public class Chhqhr {
     public static void main() {
-        System.out.println("mldgr");
-        System.out.println("nqost");
-        System.out.println("icwea");
-        System.out.println("inycv");
-        System.out.println("sqnyw");
-        System.out.println("dflol");
-        System.out.println("hdsfa");
-        System.out.println("unwqb");
-        System.out.println("hhedn");
+        System.out.println("osapo");
+        System.out.println("ujaai");
+        System.out.println("rvlpq");
+        System.out.println("rlsbv");
+        System.out.println("ylpbv");
+        System.out.println("muxsh");
+        System.out.println("dwdwp");
+        System.out.println("wpmtv");
+        System.out.println("cmeae");
+        System.out.println("suqbt");
+        System.out.println("gdjyn");
+        System.out.println("orkad");
+        System.out.println("btxen");
+        System.out.println("lpugw");
     }
 }
