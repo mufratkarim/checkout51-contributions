@@ -82,23 +82,15 @@ public class Cchtjo {
         System.out.println("htdmw");
         System.out.println("rjdbh");
         System.out.println("dvhkr");
-        System.out.println("jvdmw");
-        System.out.println("aigog");
-        System.out.println("drobn");
-        System.out.println("cqdjt");
-        System.out.println("dlupd");
-        System.out.println("lfbna");
-        System.out.println("wmvkp");
-        System.out.println("yctok");
-        System.out.println("oulnm");
-        System.out.println("pefxe");
-        System.out.println("tdmsk");
-        System.out.println("anhyl");
-        System.out.println("igaes");
-        System.out.println("oiewl");
-        System.out.println("lkahs");
-        System.out.println("yinkg");
-        System.out.println("prqmu");
-        System.out.println("jejar");
+        System.out.println("tawwk");
+        System.out.println("givmt");
+        System.out.println("tsllw");
+        System.out.println("qdvqn");
+        System.out.println("wjsoh");
+        System.out.println("ywiua");
+        System.out.println("arqkv");
+        System.out.println("ahciu");
+        System.out.println("pjlrh");
+        System.out.println("fgycp");
     }
 }
