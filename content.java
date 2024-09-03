@@ -23,5 +23,20 @@ public class Cjphid {
         System.out.println("axhkq");
         System.out.println("gkrnm");
         System.out.println("apaaj");
+        System.out.println("rsppv");
+        System.out.println("qpexi");
+        System.out.println("svjqi");
+        System.out.println("khxop");
+        System.out.println("jcwpm");
+        System.out.println("grvub");
+        System.out.println("odkqf");
+        System.out.println("dmeal");
+        System.out.println("lnwxn");
+        System.out.println("ugsna");
+        System.out.println("ddduj");
+        System.out.println("tdubh");
+        System.out.println("inlpa");
+        System.out.println("qhdmp");
+        System.out.println("jukqp");
     }
 }
