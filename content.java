@@ -34,6 +34,9 @@ public class Cjphid {
         System.out.println("lnwxn");
         System.out.println("ugsna");
         System.out.println("ddduj");
-        System.out.println("tdubh");
+        System.out.println("omyvu");
+        System.out.println("svppj");
+        System.out.println("wtxmg");
+        System.out.println("nrpfm");
     }
 }
