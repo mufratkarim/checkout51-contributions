@@ -19,18 +19,7 @@ public class Cukbln {
         System.out.println("ggwra");
         System.out.println("risam");
         System.out.println("ydqkp");
-        System.out.println("ttjdi");
-        System.out.println("asajn");
-        System.out.println("vgiyd");
-        System.out.println("densh");
-        System.out.println("gyqqq");
-        System.out.println("boxpu");
-        System.out.println("xihid");
-        System.out.println("msvce");
-        System.out.println("thpdq");
-        System.out.println("vlhqi");
-        System.out.println("jwkeu");
-        System.out.println("fiehp");
-        System.out.println("eayfo");
+        System.out.println("qxcee");
+        System.out.println("gwxgb");
     }
 }
