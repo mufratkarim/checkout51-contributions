@@ -18,6 +18,9 @@ public class Cukbln {
         System.out.println("hesys");
         System.out.println("ggwra");
         System.out.println("risam");
-        System.out.println("kcqgq");
+        System.out.println("gpprm");
+        System.out.println("wjsus");
+        System.out.println("yelkw");
+        System.out.println("sbabi");
     }
 }
