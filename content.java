@@ -1,26 +1,14 @@
-public class Cukbln {
+public class Cvwryj {
     public static void main() {
-        System.out.println("qskct");
-        System.out.println("tliob");
-        System.out.println("isbxb");
-        System.out.println("fpppp");
-        System.out.println("ocdqw");
-        System.out.println("dbaip");
-        System.out.println("bascg");
-        System.out.println("buhge");
-        System.out.println("vihsn");
-        System.out.println("esjbh");
-        System.out.println("tqxhb");
-        System.out.println("blqjx");
-        System.out.println("tcktm");
-        System.out.println("fmpob");
-        System.out.println("ndmdd");
-        System.out.println("hesys");
-        System.out.println("ggwra");
-        System.out.println("risam");
-        System.out.println("gpprm");
-        System.out.println("wjsus");
-        System.out.println("yelkw");
-        System.out.println("sbabi");
+        System.out.println("dpsww");
+        System.out.println("ahfvv");
+        System.out.println("royny");
+        System.out.println("rpedg");
+        System.out.println("rpsyf");
+        System.out.println("helue");
+        System.out.println("jkwsw");
+        System.out.println("rgiij");
+        System.out.println("bwwrh");
+        System.out.println("mwsoc");
     }
 }
