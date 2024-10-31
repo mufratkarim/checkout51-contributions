@@ -10,5 +10,12 @@ public class Cvwryj {
         System.out.println("rgiij");
         System.out.println("bwwrh");
         System.out.println("mwsoc");
+        System.out.println("egmbi");
+        System.out.println("uxddv");
+        System.out.println("kctcp");
+        System.out.println("drkwv");
+        System.out.println("vwifb");
+        System.out.println("mptdd");
+        System.out.println("olrcq");
     }
 }
