@@ -1,21 +1,38 @@
-public class Cvwryj {
+public class Cqlnmd {
     public static void main() {
-        System.out.println("dpsww");
-        System.out.println("ahfvv");
-        System.out.println("royny");
-        System.out.println("rpedg");
-        System.out.println("rpsyf");
-        System.out.println("helue");
-        System.out.println("jkwsw");
-        System.out.println("rgiij");
-        System.out.println("bwwrh");
-        System.out.println("mwsoc");
-        System.out.println("egmbi");
-        System.out.println("uxddv");
-        System.out.println("kctcp");
-        System.out.println("drkwv");
-        System.out.println("vwifb");
-        System.out.println("mptdd");
-        System.out.println("olrcq");
+        System.out.println("inasr");
+        System.out.println("dpett");
+        System.out.println("frjfh");
+        System.out.println("xcufm");
+        System.out.println("ldcvi");
+        System.out.println("pendq");
+        System.out.println("vmtwd");
+        System.out.println("jbsxh");
+        System.out.println("afdqq");
+        System.out.println("fkybn");
+        System.out.println("sjekt");
+        System.out.println("knllq");
+        System.out.println("rbrfg");
+        System.out.println("gcdtf");
+        System.out.println("adlvq");
+        System.out.println("xjgbe");
+        System.out.println("tfxjp");
+        System.out.println("fdwwh");
+        System.out.println("fvpxh");
+        System.out.println("envji");
+        System.out.println("sccos");
+        System.out.println("unwgu");
+        System.out.println("gkvpx");
+        System.out.println("wqnts");
+        System.out.println("dwqqh");
+        System.out.println("jfnwb");
+        System.out.println("apqiw");
+        System.out.println("fbrqj");
+        System.out.println("xnrun");
+        System.out.println("smmyr");
+        System.out.println("ixdai");
+        System.out.println("shayg");
+        System.out.println("ivqgt");
+        System.out.println("wlawg");
     }
 }
