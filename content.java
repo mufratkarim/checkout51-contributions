@@ -31,8 +31,5 @@ public class Cqlnmd {
         System.out.println("xnrun");
         System.out.println("smmyr");
         System.out.println("ixdai");
-        System.out.println("shayg");
-        System.out.println("ivqgt");
-        System.out.println("wlawg");
     }
 }
