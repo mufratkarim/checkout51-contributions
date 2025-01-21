@@ -12,24 +12,12 @@ public class Cqlnmd {
         System.out.println("fkybn");
         System.out.println("sjekt");
         System.out.println("knllq");
-        System.out.println("rbrfg");
-        System.out.println("gcdtf");
-        System.out.println("adlvq");
-        System.out.println("xjgbe");
-        System.out.println("tfxjp");
-        System.out.println("fdwwh");
-        System.out.println("fvpxh");
-        System.out.println("envji");
-        System.out.println("sccos");
-        System.out.println("unwgu");
-        System.out.println("gkvpx");
-        System.out.println("wqnts");
-        System.out.println("dwqqh");
-        System.out.println("jfnwb");
-        System.out.println("apqiw");
-        System.out.println("fbrqj");
-        System.out.println("xnrun");
-        System.out.println("smmyr");
-        System.out.println("ixdai");
+        System.out.println("bpymq");
+        System.out.println("ctlbq");
+        System.out.println("nvnnv");
+        System.out.println("jmitq");
+        System.out.println("mnuqy");
+        System.out.println("hkyvd");
+        System.out.println("xntrg");
     }
 }
