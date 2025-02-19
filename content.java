@@ -12,6 +12,10 @@ public class Cqlnmd {
         System.out.println("xiify");
         System.out.println("mhhut");
         System.out.println("ocadq");
-        System.out.println("vtjkr");
+        System.out.println("hqtls");
+        System.out.println("kests");
+        System.out.println("jybvp");
+        System.out.println("qyukd");
+        System.out.println("jcgjc");
     }
 }
