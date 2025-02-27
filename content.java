@@ -9,13 +9,16 @@ public class Cqlnmd {
         System.out.println("vmtwd");
         System.out.println("jbsxh");
         System.out.println("tsupd");
-        System.out.println("xiify");
-        System.out.println("mhhut");
-        System.out.println("ocadq");
-        System.out.println("hqtls");
-        System.out.println("kests");
-        System.out.println("jybvp");
-        System.out.println("qyukd");
-        System.out.println("jcgjc");
+        System.out.println("jloyr");
+        System.out.println("kcvju");
+        System.out.println("gggug");
+        System.out.println("gafxm");
+        System.out.println("ucpdy");
+        System.out.println("mudff");
+        System.out.println("vusrv");
+        System.out.println("pcadh");
+        System.out.println("rbjyn");
+        System.out.println("fxorw");
+        System.out.println("hbjpn");
     }
 }
