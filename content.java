@@ -24,5 +24,8 @@ public class Cqlnmd {
         System.out.println("rpyel");
         System.out.println("rytsu");
         System.out.println("lnsca");
+        System.out.println("yfsvs");
+        System.out.println("urxse");
+        System.out.println("ggmgq");
     }
 }
