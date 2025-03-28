@@ -19,5 +19,12 @@ public class Cqlnmd {
         System.out.println("lxurl");
         System.out.println("numqs");
         System.out.println("tkhsb");
+        System.out.println("xkuao");
+        System.out.println("xdeqk");
+        System.out.println("sncel");
+        System.out.println("gxvtg");
+        System.out.println("vbtqt");
+        System.out.println("wvura");
+        System.out.println("obink");
     }
 }
