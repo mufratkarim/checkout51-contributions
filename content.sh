@@ -15,6 +15,8 @@ git filter-repo --force --commit-callback '
         commit.committer_name = b"Mufrat Aritra"
         commit.committer_email = b"mufratkarimaritra@gmail.com"
   '
+# STEP 4: Re-add the remote origin since git-filter-repo removes it
+git remote add origin git@github.com:mufratkarim/checkout51-contributions.git
 
-# STEP 4: Push updated history to GitHub
+# STEP 5: Push updated history to GitHub
 git push --force origin main
