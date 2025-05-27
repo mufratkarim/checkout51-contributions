@@ -19,5 +19,9 @@ public class Cmwdlf {
         System.out.println("yigiv");
         System.out.println("elftj");
         System.out.println("jrmpv");
+        System.out.println("cdreh");
+        System.out.println("oqnpg");
+        System.out.println("tmmym");
+        System.out.println("pgwtl");
     }
 }
