@@ -64,5 +64,9 @@ public class Cibrax {
         System.out.println("cdrvt");
         System.out.println("usfmv");
         System.out.println("rjvge");
+        System.out.println("ybtro");
+        System.out.println("plwxc");
+        System.out.println("sknsu");
+        System.out.println("uaqcx");
     }
 }
