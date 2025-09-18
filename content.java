@@ -13,6 +13,14 @@ public class Cmroqd {
         System.out.println("rleds");
         System.out.println("wfqeo");
         System.out.println("lqfyf");
-        System.out.println("rjhlx");
+        System.out.println("bucal");
+        System.out.println("pkgdb");
+        System.out.println("qveua");
+        System.out.println("mhmts");
+        System.out.println("ivqty");
+        System.out.println("bjqqv");
+        System.out.println("wmcxb");
+        System.out.println("lxiaa");
+        System.out.println("lyfgc");
     }
 }
