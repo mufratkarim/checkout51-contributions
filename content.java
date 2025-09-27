@@ -22,5 +22,13 @@ public class Cmroqd {
         System.out.println("wmcxb");
         System.out.println("lxiaa");
         System.out.println("lyfgc");
+        System.out.println("rhkwv");
+        System.out.println("axxae");
+        System.out.println("dylle");
+        System.out.println("wliiv");
+        System.out.println("oaxgn");
+        System.out.println("rgmwt");
+        System.out.println("ckafk");
+        System.out.println("ynlhi");
     }
 }
