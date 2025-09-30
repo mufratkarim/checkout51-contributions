@@ -10,25 +10,16 @@ public class Cmroqd {
         System.out.println("vefig");
         System.out.println("okisa");
         System.out.println("kxehi");
-        System.out.println("rleds");
-        System.out.println("wfqeo");
-        System.out.println("lqfyf");
-        System.out.println("bucal");
-        System.out.println("pkgdb");
-        System.out.println("qveua");
-        System.out.println("mhmts");
-        System.out.println("ivqty");
-        System.out.println("bjqqv");
-        System.out.println("wmcxb");
-        System.out.println("lxiaa");
-        System.out.println("lyfgc");
-        System.out.println("rhkwv");
-        System.out.println("axxae");
-        System.out.println("dylle");
-        System.out.println("wliiv");
-        System.out.println("oaxgn");
-        System.out.println("rgmwt");
-        System.out.println("ckafk");
-        System.out.println("ynlhi");
+        System.out.println("wwota");
+        System.out.println("flsia");
+        System.out.println("pttwc");
+        System.out.println("tgawk");
+        System.out.println("lvhsc");
+        System.out.println("pvjjv");
+        System.out.println("ueyun");
+        System.out.println("hogeh");
+        System.out.println("rdlkc");
+        System.out.println("wpsra");
+        System.out.println("cakpa");
     }
 }
