@@ -1,5 +1,57 @@
 public class Ctrpdd {
     public static void main() {
         System.out.println("xgsun");
+        System.out.println("gxgim");
+        System.out.println("ffatt");
+        System.out.println("kbgmt");
+        System.out.println("ymqup");
+        System.out.println("rmunr");
+        System.out.println("advfm");
+        System.out.println("ghpbo");
+        System.out.println("ylnwe");
+        System.out.println("ktclj");
+        System.out.println("qaaqh");
+        System.out.println("iuqhc");
+        System.out.println("mmvwn");
+        System.out.println("nbevx");
+        System.out.println("onvmy");
+        System.out.println("vltxt");
+        System.out.println("licgj");
+        System.out.println("qeumr");
+        System.out.println("yyprt");
+        System.out.println("iwfxc");
+        System.out.println("ddoal");
+        System.out.println("wdhjr");
+        System.out.println("bstjm");
+        System.out.println("pcbkk");
+        System.out.println("xcyrj");
+        System.out.println("vwpfg");
+        System.out.println("uejtv");
+        System.out.println("apulo");
+        System.out.println("olwtd");
+        System.out.println("sklic");
+        System.out.println("aruqj");
+        System.out.println("ogyxh");
+        System.out.println("mqaba");
+        System.out.println("nlnkk");
+        System.out.println("gwjdf");
+        System.out.println("vbape");
+        System.out.println("jjyxx");
+        System.out.println("ygoqf");
+        System.out.println("ylfet");
+        System.out.println("hxvbi");
+        System.out.println("eeqxh");
+        System.out.println("rvkra");
+        System.out.println("nkyfv");
+        System.out.println("usxqb");
+        System.out.println("htskw");
+        System.out.println("mbusp");
+        System.out.println("yiphk");
+        System.out.println("mrbue");
+        System.out.println("ieumu");
+        System.out.println("wyybb");
+        System.out.println("ukjvg");
+        System.out.println("blqut");
+        System.out.println("bqkba");
     }
 }
