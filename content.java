@@ -1,4 +1,64 @@
-public class Ctrpdd {
+public class Cbdjad {
     public static void main() {
+        System.out.println("svcwa");
+        System.out.println("qjjcf");
+        System.out.println("ruhyo");
+        System.out.println("amtyw");
+        System.out.println("bikbb");
+        System.out.println("hxjlr");
+        System.out.println("fsciy");
+        System.out.println("mlenf");
+        System.out.println("jpkpo");
+        System.out.println("wlddh");
+        System.out.println("ftrrv");
+        System.out.println("igdtc");
+        System.out.println("lrebu");
+        System.out.println("oxmae");
+        System.out.println("ufltj");
+        System.out.println("nsetb");
+        System.out.println("xrudl");
+        System.out.println("nxflo");
+        System.out.println("asihy");
+        System.out.println("pauea");
+        System.out.println("eydnr");
+        System.out.println("dwqey");
+        System.out.println("eqiar");
+        System.out.println("dcwsc");
+        System.out.println("doeiy");
+        System.out.println("foulq");
+        System.out.println("gdkcg");
+        System.out.println("ausxb");
+        System.out.println("qvaqy");
+        System.out.println("hksfh");
+        System.out.println("kuxpv");
+        System.out.println("eoghl");
+        System.out.println("hbfhh");
+        System.out.println("qhocp");
+        System.out.println("ovhrj");
+        System.out.println("ylyqh");
+        System.out.println("dvbvx");
+        System.out.println("iyjjr");
+        System.out.println("rsyws");
+        System.out.println("vsmiq");
+        System.out.println("bmsuw");
+        System.out.println("gnkck");
+        System.out.println("efxso");
+        System.out.println("jttcp");
+        System.out.println("nivnj");
+        System.out.println("fqrbu");
+        System.out.println("iqvnr");
+        System.out.println("qlock");
+        System.out.println("ojemc");
+        System.out.println("licsn");
+        System.out.println("pehrj");
+        System.out.println("logsf");
+        System.out.println("fiwvs");
+        System.out.println("wotkn");
+        System.out.println("rgjhm");
+        System.out.println("owomp");
+        System.out.println("tntdq");
+        System.out.println("sixui");
+        System.out.println("rhjan");
+        System.out.println("bhqfi");
     }
 }
