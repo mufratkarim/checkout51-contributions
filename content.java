@@ -52,13 +52,10 @@ public class Cbdjad {
         System.out.println("licsn");
         System.out.println("pehrj");
         System.out.println("logsf");
-        System.out.println("fiwvs");
-        System.out.println("wotkn");
-        System.out.println("rgjhm");
-        System.out.println("owomp");
-        System.out.println("tntdq");
-        System.out.println("sixui");
-        System.out.println("rhjan");
-        System.out.println("bhqfi");
+        System.out.println("eqfjh");
+        System.out.println("icawg");
+        System.out.println("rdpgu");
+        System.out.println("juvjv");
+        System.out.println("kqpci");
     }
 }
