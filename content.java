@@ -69,5 +69,7 @@ public class Cbdjad {
         System.out.println("nhscl");
         System.out.println("idbgy");
         System.out.println("xhhdj");
+        System.out.println("souha");
+        System.out.println("pxlgl");
     }
 }
