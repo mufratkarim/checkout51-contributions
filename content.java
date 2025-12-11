@@ -95,8 +95,9 @@ public class Cbdjad {
         System.out.println("melrk");
         System.out.println("qwhiv");
         System.out.println("cuvho");
-        System.out.println("rhyxh");
-        System.out.println("nkytf");
-        System.out.println("jpxql");
+        System.out.println("iqrxc");
+        System.out.println("atxcq");
+        System.out.println("aqijl");
+        System.out.println("tteee");
     }
 }
