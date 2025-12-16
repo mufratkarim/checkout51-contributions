@@ -15,5 +15,14 @@ public class Cdrlfx {
         System.out.println("tfuyf");
         System.out.println("vnhxf");
         System.out.println("xndkl");
+        System.out.println("jgxcp");
+        System.out.println("rwuwn");
+        System.out.println("xsdes");
+        System.out.println("jpodl");
+        System.out.println("yccuo");
+        System.out.println("mjpok");
+        System.out.println("phsnv");
+        System.out.println("ournd");
+        System.out.println("ecwjm");
     }
 }
