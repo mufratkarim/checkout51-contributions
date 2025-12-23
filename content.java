@@ -57,9 +57,7 @@ public class Crthme {
         System.out.println("jxitx");
         System.out.println("pbamg");
         System.out.println("uvftu");
-        System.out.println("cuvim");
-        System.out.println("xkuro");
-        System.out.println("bqpwe");
-        System.out.println("dcryb");
+        System.out.println("ghcri");
+        System.out.println("gbtle");
     }
 }
