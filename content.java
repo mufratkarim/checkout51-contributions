@@ -98,12 +98,5 @@ public class Crthme {
         System.out.println("tblak");
         System.out.println("vgrfy");
         System.out.println("swuru");
-        System.out.println("cclyg");
-        System.out.println("ytnml");
-        System.out.println("kqbmm");
-        System.out.println("hjxqy");
-        System.out.println("alfch");
-        System.out.println("ixawm");
-        System.out.println("lbrfq");
     }
 }
