@@ -95,8 +95,6 @@ public class Crthme {
         System.out.println("pkcka");
         System.out.println("whgdd");
         System.out.println("dveom");
-        System.out.println("tblak");
-        System.out.println("vgrfy");
-        System.out.println("swuru");
+        System.out.println("dfjwx");
     }
 }
