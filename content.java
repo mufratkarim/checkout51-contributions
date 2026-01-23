@@ -1,5 +1,56 @@
-public class Cicspt {
+public class Cnymnn {
     public static void main() {
-        System.out.println("tmufh");
+        System.out.println("mwrlh");
+        System.out.println("ifsho");
+        System.out.println("hmlnx");
+        System.out.println("vsdwm");
+        System.out.println("tivnc");
+        System.out.println("gywme");
+        System.out.println("cfaeo");
+        System.out.println("cyhjl");
+        System.out.println("caaip");
+        System.out.println("olfrd");
+        System.out.println("rbvnp");
+        System.out.println("thiuq");
+        System.out.println("tplje");
+        System.out.println("qetix");
+        System.out.println("borhh");
+        System.out.println("bqfgb");
+        System.out.println("cbbsi");
+        System.out.println("vmnup");
+        System.out.println("tsrmh");
+        System.out.println("ctfiq");
+        System.out.println("qqeix");
+        System.out.println("hbojl");
+        System.out.println("yxkwe");
+        System.out.println("wghca");
+        System.out.println("ooobc");
+        System.out.println("sflrd");
+        System.out.println("imqdr");
+        System.out.println("tkwio");
+        System.out.println("wkrve");
+        System.out.println("bqkrr");
+        System.out.println("bemvg");
+        System.out.println("ppkpn");
+        System.out.println("baiss");
+        System.out.println("mbupp");
+        System.out.println("qxqbo");
+        System.out.println("bgmnj");
+        System.out.println("eymin");
+        System.out.println("elhte");
+        System.out.println("josjn");
+        System.out.println("woqix");
+        System.out.println("bkjca");
+        System.out.println("qypxq");
+        System.out.println("aoxie");
+        System.out.println("atjaw");
+        System.out.println("dcumw");
+        System.out.println("ywofo");
+        System.out.println("hvxrt");
+        System.out.println("jkdgu");
+        System.out.println("lpjki");
+        System.out.println("rxvtd");
+        System.out.println("xyixe");
+        System.out.println("sxgop");
     }
 }
