@@ -14,7 +14,14 @@ public class Cpuitm {
         System.out.println("vmffa");
         System.out.println("itnms");
         System.out.println("qiimu");
-        System.out.println("beeed");
-        System.out.println("sxieg");
+        System.out.println("vakiq");
+        System.out.println("jtynp");
+        System.out.println("lanxg");
+        System.out.println("yrbun");
+        System.out.println("shypc");
+        System.out.println("ylavq");
+        System.out.println("jyryc");
+        System.out.println("jxlpp");
+        System.out.println("rumuv");
     }
 }
