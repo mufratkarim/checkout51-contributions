@@ -22,6 +22,9 @@ public class Cpuitm {
         System.out.println("ylavq");
         System.out.println("jyryc");
         System.out.println("jxlpp");
-        System.out.println("rumuv");
+        System.out.println("oignh");
+        System.out.println("yqcgi");
+        System.out.println("pvsdw");
+        System.out.println("rbjtn");
     }
 }
