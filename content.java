@@ -1,30 +1,13 @@
-public class Cpuitm {
+public class Cbdvxj {
     public static void main() {
-        System.out.println("wxdtx");
-        System.out.println("dusmo");
-        System.out.println("vvlch");
-        System.out.println("gnrwn");
-        System.out.println("hntej");
-        System.out.println("mwsne");
-        System.out.println("eqaxn");
-        System.out.println("bijbb");
-        System.out.println("ankjx");
-        System.out.println("xahmt");
-        System.out.println("cjsip");
-        System.out.println("vmffa");
-        System.out.println("itnms");
-        System.out.println("qiimu");
-        System.out.println("vakiq");
-        System.out.println("jtynp");
-        System.out.println("lanxg");
-        System.out.println("yrbun");
-        System.out.println("shypc");
-        System.out.println("ylavq");
-        System.out.println("jyryc");
-        System.out.println("jxlpp");
-        System.out.println("oignh");
-        System.out.println("yqcgi");
-        System.out.println("pvsdw");
-        System.out.println("rbjtn");
+        System.out.println("llxpy");
+        System.out.println("diswk");
+        System.out.println("tpioy");
+        System.out.println("ehqie");
+        System.out.println("edtsd");
+        System.out.println("yuebm");
+        System.out.println("eqfia");
+        System.out.println("rgaci");
+        System.out.println("pixkq");
     }
 }
