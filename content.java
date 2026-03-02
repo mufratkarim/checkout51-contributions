@@ -46,7 +46,16 @@ public class Cyouqy {
         System.out.println("fjbeb");
         System.out.println("xjebd");
         System.out.println("eaige");
-        System.out.println("ruwpn");
-        System.out.println("fijci");
+        System.out.println("kejbv");
+        System.out.println("cvpxw");
+        System.out.println("tjnkx");
+        System.out.println("jwuci");
+        System.out.println("uxkvh");
+        System.out.println("pnafo");
+        System.out.println("splbl");
+        System.out.println("meygi");
+        System.out.println("geyby");
+        System.out.println("xujjl");
+        System.out.println("twylh");
     }
 }
