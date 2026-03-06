@@ -1,61 +1,6 @@
-public class Cyouqy {
+public class Cyqfob {
     public static void main() {
-        System.out.println("wqetk");
-        System.out.println("mrjha");
-        System.out.println("swdxc");
-        System.out.println("usjit");
-        System.out.println("fogig");
-        System.out.println("eutog");
-        System.out.println("erepa");
-        System.out.println("pxgwb");
-        System.out.println("hseja");
-        System.out.println("eibrj");
-        System.out.println("bwcpu");
-        System.out.println("niiab");
-        System.out.println("vqqjj");
-        System.out.println("guoog");
-        System.out.println("uvbvr");
-        System.out.println("xanjq");
-        System.out.println("auyns");
-        System.out.println("nlphb");
-        System.out.println("jjcof");
-        System.out.println("cnlkv");
-        System.out.println("tkrya");
-        System.out.println("ufsnm");
-        System.out.println("ovtle");
-        System.out.println("uslak");
-        System.out.println("vydnv");
-        System.out.println("ncyai");
-        System.out.println("qaavr");
-        System.out.println("obmfq");
-        System.out.println("onswg");
-        System.out.println("erbvd");
-        System.out.println("xnsav");
-        System.out.println("nqbrx");
-        System.out.println("rnygo");
-        System.out.println("ixubx");
-        System.out.println("caryf");
-        System.out.println("mjxls");
-        System.out.println("quqdb");
-        System.out.println("ndfvt");
-        System.out.println("nkdvg");
-        System.out.println("cbcgt");
-        System.out.println("yhfib");
-        System.out.println("njrti");
-        System.out.println("qfgln");
-        System.out.println("fjbeb");
-        System.out.println("xjebd");
-        System.out.println("eaige");
-        System.out.println("kejbv");
-        System.out.println("cvpxw");
-        System.out.println("tjnkx");
-        System.out.println("jwuci");
-        System.out.println("uxkvh");
-        System.out.println("pnafo");
-        System.out.println("splbl");
-        System.out.println("meygi");
-        System.out.println("geyby");
-        System.out.println("xujjl");
-        System.out.println("twylh");
+        System.out.println("qstlf");
+        System.out.println("tlbcy");
     }
 }
