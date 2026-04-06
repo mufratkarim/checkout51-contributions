@@ -1,5 +1,6 @@
-public class Cpukdr {
+public class Cyfron {
     public static void main() {
-        System.out.println("okwkj");
+        System.out.println("cedku");
+        System.out.println("bldah");
     }
 }
