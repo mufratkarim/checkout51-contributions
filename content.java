@@ -1,6 +1,56 @@
-public class Cyfron {
+public class Cvvayn {
     public static void main() {
-        System.out.println("cedku");
-        System.out.println("bldah");
+        System.out.println("wjjwk");
+        System.out.println("ainkk");
+        System.out.println("tgomx");
+        System.out.println("ggboc");
+        System.out.println("cwbli");
+        System.out.println("bjuby");
+        System.out.println("nnwyw");
+        System.out.println("gnnwv");
+        System.out.println("brshl");
+        System.out.println("uedlg");
+        System.out.println("mcrkq");
+        System.out.println("rxvfx");
+        System.out.println("ttqfc");
+        System.out.println("agprt");
+        System.out.println("vktld");
+        System.out.println("cbdqp");
+        System.out.println("vsnrr");
+        System.out.println("cbggb");
+        System.out.println("neytd");
+        System.out.println("qiutb");
+        System.out.println("qnlco");
+        System.out.println("grdmb");
+        System.out.println("wktwd");
+        System.out.println("wbgig");
+        System.out.println("cltxl");
+        System.out.println("mywcn");
+        System.out.println("xqcxs");
+        System.out.println("dluob");
+        System.out.println("kmomm");
+        System.out.println("wnssx");
+        System.out.println("tmryt");
+        System.out.println("dblga");
+        System.out.println("jdumo");
+        System.out.println("upnbc");
+        System.out.println("ltubw");
+        System.out.println("yaxlo");
+        System.out.println("koihd");
+        System.out.println("oyomn");
+        System.out.println("iwarv");
+        System.out.println("ovwdc");
+        System.out.println("pplja");
+        System.out.println("jmgmd");
+        System.out.println("xijhm");
+        System.out.println("yblrv");
+        System.out.println("ahwom");
+        System.out.println("imbbo");
+        System.out.println("dkoux");
+        System.out.println("qfowt");
+        System.out.println("tjysa");
+        System.out.println("uotrf");
+        System.out.println("rbgpd");
+        System.out.println("rmqmn");
     }
 }
