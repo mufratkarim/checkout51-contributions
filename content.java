@@ -54,5 +54,7 @@ public class Cvvayn {
         System.out.println("grpfj");
         System.out.println("kqriw");
         System.out.println("uksso");
+        System.out.println("nssud");
+        System.out.println("fbbco");
     }
 }
