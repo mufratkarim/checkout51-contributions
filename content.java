@@ -78,7 +78,16 @@ public class Cvvayn {
         System.out.println("cijxf");
         System.out.println("ihnox");
         System.out.println("nwrki");
-        System.out.println("jumxk");
-        System.out.println("cnagg");
+        System.out.println("vkpfj");
+        System.out.println("nxhtp");
+        System.out.println("lvayy");
+        System.out.println("fnagq");
+        System.out.println("kfbfl");
+        System.out.println("pfhot");
+        System.out.println("nceob");
+        System.out.println("plnng");
+        System.out.println("hajum");
+        System.out.println("cidga");
+        System.out.println("jpome");
     }
 }
