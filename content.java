@@ -95,5 +95,9 @@ public class Cvvayn {
         System.out.println("fscqv");
         System.out.println("tqnew");
         System.out.println("lgjyj");
+        System.out.println("okmdi");
+        System.out.println("traur");
+        System.out.println("tlgct");
+        System.out.println("cihcl");
     }
 }
