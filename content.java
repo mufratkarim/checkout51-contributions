@@ -90,14 +90,14 @@ public class Cvvayn {
         System.out.println("hsvyl");
         System.out.println("doscs");
         System.out.println("lnlhm");
-        System.out.println("pleay");
-        System.out.println("ephyj");
-        System.out.println("fscqv");
-        System.out.println("tqnew");
-        System.out.println("lgjyj");
-        System.out.println("okmdi");
-        System.out.println("traur");
-        System.out.println("tlgct");
-        System.out.println("cihcl");
+        System.out.println("usdin");
+        System.out.println("oiclj");
+        System.out.println("lyjkg");
+        System.out.println("uecur");
+        System.out.println("btriu");
+        System.out.println("phevu");
+        System.out.println("ikddl");
+        System.out.println("drskd");
+        System.out.println("gphsp");
     }
 }
