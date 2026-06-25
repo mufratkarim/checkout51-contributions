@@ -1,42 +1,23 @@
-public class Cvvayn {
+public class Cujbnm {
     public static void main() {
-        System.out.println("wjjwk");
-        System.out.println("ainkk");
-        System.out.println("tgomx");
-        System.out.println("ggboc");
-        System.out.println("cwbli");
-        System.out.println("bjuby");
-        System.out.println("nnwyw");
-        System.out.println("gnnwv");
-        System.out.println("brshl");
-        System.out.println("uedlg");
-        System.out.println("mcrkq");
-        System.out.println("rxvfx");
-        System.out.println("ttqfc");
-        System.out.println("agprt");
-        System.out.println("vktld");
-        System.out.println("cbdqp");
-        System.out.println("vsnrr");
-        System.out.println("cbggb");
-        System.out.println("neytd");
-        System.out.println("qiutb");
-        System.out.println("qnlco");
-        System.out.println("grdmb");
-        System.out.println("wktwd");
-        System.out.println("wbgig");
-        System.out.println("cltxl");
-        System.out.println("mywcn");
-        System.out.println("snbfi");
-        System.out.println("baotu");
-        System.out.println("nhgbk");
-        System.out.println("rducr");
-        System.out.println("ruktu");
-        System.out.println("xrtka");
-        System.out.println("wfreo");
-        System.out.println("usdtw");
-        System.out.println("ndojc");
-        System.out.println("lwmsf");
-        System.out.println("bvylb");
-        System.out.println("htyfi");
+        System.out.println("tgkla");
+        System.out.println("vanth");
+        System.out.println("clflk");
+        System.out.println("tfjmt");
+        System.out.println("rucjf");
+        System.out.println("mgspd");
+        System.out.println("naatq");
+        System.out.println("gtpxb");
+        System.out.println("bxyaa");
+        System.out.println("jxplx");
+        System.out.println("vhnae");
+        System.out.println("lnttn");
+        System.out.println("uhaxa");
+        System.out.println("tvscl");
+        System.out.println("mejhq");
+        System.out.println("efkgl");
+        System.out.println("fqaty");
+        System.out.println("bgscc");
+        System.out.println("gqidg");
     }
 }
