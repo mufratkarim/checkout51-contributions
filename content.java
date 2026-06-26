@@ -13,11 +13,8 @@ public class Cujbnm {
         System.out.println("vhnae");
         System.out.println("lnttn");
         System.out.println("uhaxa");
-        System.out.println("tvscl");
-        System.out.println("mejhq");
-        System.out.println("efkgl");
-        System.out.println("fqaty");
-        System.out.println("bgscc");
-        System.out.println("gqidg");
+        System.out.println("edgdi");
+        System.out.println("kehpm");
+        System.out.println("pjvat");
     }
 }
