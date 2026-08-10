@@ -14,7 +14,8 @@ public class Cujbnm {
         System.out.println("lnttn");
         System.out.println("uhaxa");
         System.out.println("edgdi");
-        System.out.println("enjcc");
-        System.out.println("jyudg");
+        System.out.println("vgwaj");
+        System.out.println("jwngc");
+        System.out.println("dxmhg");
     }
 }
