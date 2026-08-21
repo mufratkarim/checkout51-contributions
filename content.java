@@ -91,14 +91,11 @@ public class Crpipj {
         System.out.println("dkota");
         System.out.println("wvnob");
         System.out.println("lgatn");
-        System.out.println("btbiu");
-        System.out.println("nsyte");
-        System.out.println("usnih");
-        System.out.println("lggyk");
-        System.out.println("wyafj");
-        System.out.println("dllns");
-        System.out.println("fgaqy");
-        System.out.println("vveah");
-        System.out.println("xlddb");
+        System.out.println("eermh");
+        System.out.println("qjxux");
+        System.out.println("thifi");
+        System.out.println("aswwa");
+        System.out.println("wmhcy");
+        System.out.println("admpw");
     }
 }
